@@ -1,0 +1,37 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    background-color: darkgrey;
+    font-family: 'Poppins', cursive ;
+    color: white;
+}
+
+h1 {
+    margin: 1.875rem;
+    font-size: 5rem;
+}
+
+h2 {
+    font-size: 2rem;
+}
+
+img {
+    width: 80%;
+}
+
+.container {
+    width: 70%;
+    margin: auto;
+    text-align: center;
+
+
+    
+}
+
+.dice {
+    display: inline-block;
+    padding: 1rem;
+    
+}
+
