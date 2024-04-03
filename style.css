@@ -35,3 +35,10 @@ img {
     
 }
 
+#btn {
+    padding: 0.5rem;
+    border-radius: 2em;
+    background-color: rgb(44,42,64);
+    cursor: pointer;
+    
+}
