@@ -1,6 +1,6 @@
 # Jogo de Dados (Dice Game)
 
-Este é um pequeno projeto que implementa um jogo de dados simples usando HTML, CSS e JavaScript. No jogo, dois jogadores lançam um par de dados cada um e o jogador com o maior resultado ganha.
+Este é um pequeno projeto que implementa um jogo de dados simples usando HTML, CSS e JavaScript. No jogo, será lançado um par de dados e o jogador com o maior resultado ganha.
 
 ## Funcionalidades
 
