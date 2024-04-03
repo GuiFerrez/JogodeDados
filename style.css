@@ -23,22 +23,17 @@ img {
 .container {
     width: 70%;
     margin: auto;
-    text-align: center;
-
-
-    
+    text-align: center;    
 }
 
 .dice {
     display: inline-block;
-    padding: 1rem;
-    
+    padding: 1rem;    
 }
 
 #btn {
     padding: 0.5rem;
     border-radius: 2em;
     background-color: rgb(44,42,64);
-    cursor: pointer;
-    
+    cursor: pointer;    
 }
